@@ -1,0 +1,16 @@
+{
+  "name": "react-nodebird-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build"
+  },
+  "author": "DK",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.16",
+    "prop-types": "^15.8.1"
+  }
+}
